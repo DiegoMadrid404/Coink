@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\coink\\coink\\api\\3. datos\\proyecto.datos\\utilidades\\procedimientogenerico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\utilidades\\procedimientogenerico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|c:\\users\\diego\\desktop\\coink\\coink\\api\\1. servicios\\proyecto.api\\controllers\\usuario\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|solutionrelative:1. servicios\\proyecto.api\\controllers\\usuario\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\coink\\coink\\api\\3. datos\\proyecto.datos\\clases\\dal\\usuario\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\clases\\dal\\usuario\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\coink\\coink\\api\\3. datos\\proyecto.datos\\contexto\\contextoparcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\contexto\\contextoparcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\coink\\coink\\api\\3. datos\\proyecto.datos\\proyecto.datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\proyecto.datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\diego\\desktop\\coink\\coink\\api\\3. datos\\proyecto.datos\\contexto\\contextoproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0487816E-8D94-46C8-800B-79BDE6CFE7C6}|3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:3. datos\\proyecto.datos\\contexto\\contextoproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|c:\\users\\diego\\desktop\\coink\\coink\\api\\4. interfaces comunes\\proyecto.ic\\dto\\repositorio\\imunicipiodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7576DB-07EA-422C-AEFB-E2F21702ACCE}|4. Interfaces Comunes\\Proyecto.IC\\Proyecto.IC.csproj|solutionrelative:4. interfaces comunes\\proyecto.ic\\dto\\repositorio\\imunicipiodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|c:\\users\\diego\\desktop\\coink\\coink\\api\\2. negocio\\proyecto.negocio\\clases\\bl\\usuario\\usuariobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|solutionrelative:2. negocio\\proyecto.negocio\\clases\\bl\\usuario\\usuariobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|c:\\users\\diego\\desktop\\coink\\coink\\api\\2. negocio\\proyecto.negocio\\utilidades\\accesocomunbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D745666-97FA-44EC-9BA2-674FB045EC7D}|2. Negocio\\Proyecto.Negocio\\Proyecto.Negocio.csproj|solutionrelative:2. negocio\\proyecto.negocio\\utilidades\\accesocomunbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|c:\\users\\diego\\desktop\\coink\\coink\\api\\1. servicios\\proyecto.api\\models\\negocio\\usuarioparametrosgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|solutionrelative:1. servicios\\proyecto.api\\models\\negocio\\usuarioparametrosgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|c:\\users\\diego\\desktop\\coink\\coink\\api\\1. servicios\\proyecto.api\\models\\negocio\\usuarioparametros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|solutionrelative:1. servicios\\proyecto.api\\models\\negocio\\usuarioparametros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|c:\\users\\diego\\desktop\\coink\\coink\\api\\1. servicios\\proyecto.api\\models\\repositorio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|solutionrelative:1. servicios\\proyecto.api\\models\\repositorio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|c:\\users\\diego\\desktop\\coink\\coink\\api\\1. servicios\\proyecto.api\\models\\consulta\\usuarioconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B15D57-FF7E-4E82-B78E-3E8F47D829EB}|1. Servicios\\Proyecto.API\\Proyecto.API.csproj|solutionrelative:1. servicios\\proyecto.api\\models\\consulta\\usuarioconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProcedimientoGenerico.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\3. Datos\\Proyecto.Datos\\Utilidades\\ProcedimientoGenerico.cs",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Utilidades\\ProcedimientoGenerico.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\3. Datos\\Proyecto.Datos\\Utilidades\\ProcedimientoGenerico.cs",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Utilidades\\ProcedimientoGenerico.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:37:40.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMunicipioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\4. Interfaces Comunes\\Proyecto.IC\\DTO\\Repositorio\\IMunicipioDTO.cs",
+              "RelativeDocumentMoniker": "4. Interfaces Comunes\\Proyecto.IC\\DTO\\Repositorio\\IMunicipioDTO.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\4. Interfaces Comunes\\Proyecto.IC\\DTO\\Repositorio\\IMunicipioDTO.cs",
+              "RelativeToolTip": "4. Interfaces Comunes\\Proyecto.IC\\DTO\\Repositorio\\IMunicipioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:26:51.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioDAL.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\3. Datos\\Proyecto.Datos\\Clases\\DAL\\Usuario\\UsuarioDAL.cs",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Clases\\DAL\\Usuario\\UsuarioDAL.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\3. Datos\\Proyecto.Datos\\Clases\\DAL\\Usuario\\UsuarioDAL.cs",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Clases\\DAL\\Usuario\\UsuarioDAL.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAQwJgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:26:39.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContextoProyecto.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\3. Datos\\Proyecto.Datos\\Contexto\\ContextoProyecto.cs",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Contexto\\ContextoProyecto.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\3. Datos\\Proyecto.Datos\\Contexto\\ContextoProyecto.cs",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Contexto\\ContextoProyecto.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAcwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:26:31.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContextoParcial.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\3. Datos\\Proyecto.Datos\\Contexto\\ContextoParcial.cs",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Contexto\\ContextoParcial.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\3. Datos\\Proyecto.Datos\\Contexto\\ContextoParcial.cs",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Contexto\\ContextoParcial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:26:25.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioBL.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\2. Negocio\\Proyecto.Negocio\\Clases\\BL\\Usuario\\UsuarioBL.cs",
+              "RelativeDocumentMoniker": "2. Negocio\\Proyecto.Negocio\\Clases\\BL\\Usuario\\UsuarioBL.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\2. Negocio\\Proyecto.Negocio\\Clases\\BL\\Usuario\\UsuarioBL.cs",
+              "RelativeToolTip": "2. Negocio\\Proyecto.Negocio\\Clases\\BL\\Usuario\\UsuarioBL.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAcwJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:26:11.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccesoComunBL.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\2. Negocio\\Proyecto.Negocio\\Utilidades\\AccesoComunBL.cs",
+              "RelativeDocumentMoniker": "2. Negocio\\Proyecto.Negocio\\Utilidades\\AccesoComunBL.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\2. Negocio\\Proyecto.Negocio\\Utilidades\\AccesoComunBL.cs",
+              "RelativeToolTip": "2. Negocio\\Proyecto.Negocio\\Utilidades\\AccesoComunBL.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAiwJQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:25:55.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioParametrosGeneral.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\1. Servicios\\Proyecto.API\\Models\\Negocio\\UsuarioParametrosGeneral.cs",
+              "RelativeDocumentMoniker": "1. Servicios\\Proyecto.API\\Models\\Negocio\\UsuarioParametrosGeneral.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\1. Servicios\\Proyecto.API\\Models\\Negocio\\UsuarioParametrosGeneral.cs",
+              "RelativeToolTip": "1. Servicios\\Proyecto.API\\Models\\Negocio\\UsuarioParametrosGeneral.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:25:40.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\1. Servicios\\Proyecto.API\\Controllers\\Usuario\\Usuario.cs",
+              "RelativeDocumentMoniker": "1. Servicios\\Proyecto.API\\Controllers\\Usuario\\Usuario.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\1. Servicios\\Proyecto.API\\Controllers\\Usuario\\Usuario.cs",
+              "RelativeToolTip": "1. Servicios\\Proyecto.API\\Controllers\\Usuario\\Usuario.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAgwGkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:20:43.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Proyecto.Datos",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj",
+              "RelativeDocumentMoniker": "3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj",
+              "RelativeToolTip": "3. Datos\\Proyecto.Datos\\Proyecto.Datos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-08T03:39:13.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioParametros.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\1. Servicios\\Proyecto.API\\Models\\Negocio\\UsuarioParametros.cs",
+              "RelativeDocumentMoniker": "1. Servicios\\Proyecto.API\\Models\\Negocio\\UsuarioParametros.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\1. Servicios\\Proyecto.API\\Models\\Negocio\\UsuarioParametros.cs",
+              "RelativeToolTip": "1. Servicios\\Proyecto.API\\Models\\Negocio\\UsuarioParametros.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvzAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:25:29.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\1. Servicios\\Proyecto.API\\Models\\Repositorio\\Usuario.cs",
+              "RelativeDocumentMoniker": "1. Servicios\\Proyecto.API\\Models\\Repositorio\\Usuario.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\1. Servicios\\Proyecto.API\\Models\\Repositorio\\Usuario.cs",
+              "RelativeToolTip": "1. Servicios\\Proyecto.API\\Models\\Repositorio\\Usuario.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA/wDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:25:23.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioConsulta.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\1. Servicios\\Proyecto.API\\Models\\Consulta\\UsuarioConsulta.cs",
+              "RelativeDocumentMoniker": "1. Servicios\\Proyecto.API\\Models\\Consulta\\UsuarioConsulta.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\Coink\\Coink\\API\\1. Servicios\\Proyecto.API\\Models\\Consulta\\UsuarioConsulta.cs",
+              "RelativeToolTip": "1. Servicios\\Proyecto.API\\Models\\Consulta\\UsuarioConsulta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T03:24:16.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
